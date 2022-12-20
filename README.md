@@ -2,7 +2,6 @@
 <div align="center">
  </a>
     <p>A curated list of free creative software, tools, and other resources geared towards Filmmakers, Photographers, 3D Artists, Hobbyists, and Students. 
-<div align="center">
 Please note, that some resources here may not be open for commercial usage, so be sure to check all licensing information before using any software, resources or other assets.
 </div>
 
@@ -11,7 +10,7 @@ Please note, that some resources here may not be open for commercial usage, so b
     <h2>Contents:</h2>
     <p>| <a href="#Software-">🕹️Software</a> | <a href="#Documents-">📚Documents</a> | <a
             href="#Audio-">🎵 Audio</a> | <a href="#Graphics-">✨Graphics</a> | <a
-            href="#Visuals-">👩🏽‍💻Visuals</a> | <a href="#Tutorials-">👩🏻‍🏫Education</a>
+            href="#Visuals-">👩🏽‍💻Visuals</a> | <a href="#Education-">👩🏻‍🏫Education</a> |
 </div>
 
 <details><summary><b>Show Detailed Table:</b></summary>
