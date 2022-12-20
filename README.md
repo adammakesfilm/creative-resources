@@ -1,73 +1,72 @@
 
 <div align="center">
  </a>
-    <p>A curated list of free creative software, tools, and other resources geared towards Filmmakers, Photographers, 3D Artists, Hobbyists, and Students. 
-Please note, that some resources here may not be open for commercial usage, so be sure to check all licensing information before using any software, resources or other assets.
+    <p>
+    A curated list of free creative software, tools, and other resources geared towards Filmmakers, Photographers, 3D Artists, Hobbyists, and Students. Please note, that some resources here may not be open for commercial usage, so be sure to check all licensing information before using any software, resources or other assets.
 </div>
 
 <a name="table"></a>
 <div align="center">
     <h2>Contents:</h2>
-    <p>| <a href="#Software-">🕹️Software</a> | <a href="#Documents-">📚Documents</a> | <a
-            href="#Audio-">🎵 Audio</a> | <a href="#Graphics-">✨Graphics</a> | <a
-            href="#Visuals-">👩🏽‍💻Visuals</a> | <a href="#Education-">👩🏻‍🏫Education</a> |
+    <p>| <a href="#%EF%B8%8Fsoftware-">🕹️Software</a> | <a href="#documentstemplates-">📚Documents/Templates</a> | <a href="#-audio-">🎵 Audio</a> | <a href="#graphics-">✨Graphics</a> | <a href="#visuals-">👩🏽‍💻Visuals</a> | <a href="#education-">👩🏻‍🏫Education</a> |
 </div>
 
-<details><summary><b>Show Detailed Table:</b></summary>
+<details><summary><b>Show Table of Contents:</b></summary>
 <ul>
-    <li><a href="#Software-">🕹️Software</a>
+    <li><a href="##%EF%B8%8Fsoftware-">🕹️Software</a>
         <ul>
-            <li><a href="#roductionDocuments-">📝 Documents</a></li>
-            <li><a href="#Graphics-">🎨 Graphics</a></li>
-            <li><a href="#AudioEditing-">🎧 Audio Editing</a></li>
-            <li><a href="#VideoEditing-">✂ Video Editing</a></li>
-            <li><a href="#PhotoEditing-">📷 Photo Editing</a></li>
-            <li><a href="VisualEffects-">👾 Visual Effects</a></li>
-            <li><a href="3D Modeling-Animation-">🤸🏾‍♀️ 3D Modeling/Animation</a></li>
-            <li><a href="#Misc-">🪀 Misc</a></li>
+            <li><a href="#-documents-">📝 Documents</a></li>
+            <li><a href="#-graphics-">🎨 Graphics</a></li>
+            <li><a href="#-audio-editing-">🎧 Audio Editing</a></li>
+            <li><a href="#-video-editing">✂ Video Editing</a></li>
+            <li><a href="#-photo-editing-">📷 Photo Editing</a></li>
+            <li><a href="#-visual-effects-">👾 Visual Effects</a></li>
+            <li><a href="#%EF%B8%8F-3d-modelinganimation">🤸🏾‍♀️ 3D Modeling/Animation</a></li>
+            <li><a href="#misc-">🪀 Misc</a></li>
         </ul>
     </li>
-    <li><a href="#Resources-">📚Documents/Templates</a>
+    <li><a href="#documentstemplates-">📚Documents/Templates</a>
         <ul>
-            <li><a href="#Budgeting-">💰Budgeting</a></li>
-            <li><a href="PreProduction-">📅Pre Production</a></li>
-            <li><a href="#Production-">⚖ Production</a></li>
-            <li><a href="#CreativeDevelopment-">🎓Creative Development</a></li>
-            <li><a href="#Legal-Mumbo-Jumbo-">📝Legal Mumbo Jumbo</a></li>
+            <li><a href="#budgeting-">💰Budgeting</a></li>
+            <li><a href="#pre-production-">📅Pre Production</a></li>
+            <li><a href="#-production-">⚖ Production</a></li>
+            <li><a href="#creative-development-">🎓Creative Development</a></li>
+            <li><a href="#legal-mumbo-jumbo--">📝Legal Mumbo Jumbo</a></li>
         </ul>
     </li>
-    <li><a href="#Standalone-">🎵 Audio</a>
+    <li><a href="#-audio-">🎵 Audio</a>
         <ul>
-            <li><a href="#RoyaltyFreeMusic-">🎼Royalty Free Music</a></li>
-            <li><a href="#SampleKits-">🎹Sample Kits</a></li>
-            <li><a href="#SoundEffects-">🥁Sound Effects</a></li>
+            <li><a href="#royalty-free-music-">🎼Royalty Free Music</a></li>
+            <li><a href="#sample-kits-">🎹Sample Kits</a></li>
+            <li><a href="#sound-effects-">🥁Sound Effects</a></li>
         </ul>
     </li>
-    <li><a href="#Explore-Blender-">✨Graphics</a>
+    <li><a href="#graphics-">✨Graphics</a>
         <ul>
-            <li><a href="#Vectors-">🔳Vectors</a></li>
-            <li><a href="#Textures-">🧱Textures</a></li>
-            <li><a href="#Icons-">🔎Icons</a></li>
-            <li><a href="#Fonts-">✍️Fonts</a></li>
+            <li><a href="#vectors-">🔳Vectors</a></li>
+            <li><a href="#textures-">🧱Textures</a></li>
+            <li><a href="#icons-">🔎Icons</a></li>
+            <li><a href="#%EF%B8%8Ffonts-">✍️Fonts</a></li>
+            <li><a href="#other">📡Other</a></li>
         </ul>
     </li>
-    <li><a href="#Development-">👩🏽‍💻Visuals</a>
+    <li><a href="#visuals-">👩🏽‍💻Visuals</a>
         <ul>
-            <li><a href="#StockPhotos-">📷Stock Photos</a></li>
-            <li><a href="#StockFootage-">📼Stock Footage</a></li>
-            <li><a href="#VisualEffects-">🌟Visual Effects</a></li>
-            <li><a href="#ColorGrading-">🎨Colors</a></li>
+            <li><a href="#stock-photos-">📷Stock Photos</a></li>
+            <li><a href="#stock-footage-">📼Stock Footage</a></li>
+            <li><a href="#visual-effects-">🌟Visual Effects</a></li>
+            <li><a href="#colors-">🎨Colors</a></li>
         </ul>
     </li>
-        <li><a href="#Tutorials-">👩🏻‍🏫Education</a>
+        <li><a href="#education-">👩🏻‍🏫Education</a>
         <ul>
-            <li><a href="#Filmmaking-">🎥Filmmaking</a></li>
-            <li><a href="#Modeling-Animation-1">🗿Modeling/Animation</a></li>
-             <li><a href="#Photography-">🌌Phototography </a></li>
-            <li><a href="#Licencing-">💼Licencing</a></li>
+            <li><a href="#filmmaking-">🎥Filmmaking</a></li>
+            <li><a href="#-modelinganimation-">🗿Modeling/Animation</a></li>
+             <li><a href="#phototography-">🌌Phototography </a></li>
+            <li><a href="#licencing-">💼Licencing</a></li>
         </ul></li>
     </li>
-<li><a href="#Contributing-">Contributing</a></li>
+<li><a href="#contributing-">Contributing</a></li>
 </ul>
 </details>
 <br>
@@ -226,7 +225,7 @@ Please note, that some resources here may not be open for commercial usage, so b
 - [Font Space](https://www.fontspace.com/)
 - [Freebiesbug Free Fonts](https://freebiesbug.com/free-fonts/)
 
-### Other
+### 📡 Other
 - [Creative Market](https://creativemarket.com/free-goods), download four free quality assets each week!
 - [Free Design File](https://freedesignfile.com/) offeres a massive amount of vectors, stock photos, PSD files, icons and fonts for personal and comercial uses
 - [All Free Download](https://all-free-download.com/)
@@ -315,9 +314,7 @@ Please note, that some resources here may not be open for commercial usage, so b
 - [ About Creative Commons Licenses](https://creativecommons.org/about/cclicenses/) 
 
 ---
-
+### Contributing: [^](#table)
 Your contributions are always welcome! - If you want to contribute to this list, fill out the form below:
 
 > [https://forms.gle/9QHYpvsmgPEhbQoS9](https://forms.gle/9QHYpvsmgPEhbQoS9)
-
-
