@@ -1,4 +1,5 @@
 
+
 <div align="center">
  </a>
     <p>
@@ -47,7 +48,8 @@
             <li><a href="#textures-">🧱Textures</a></li>
             <li><a href="#icons-">🔎Icons</a></li>
             <li><a href="#%EF%B8%8Ffonts-">✍️Fonts</a></li>
-            <li><a href="#other">📡Other</a></li>
+            <li><a href="#illustrations-">📁Illustrations </a></li>
+            <li><a href="#-other-">📡Other</a></li>
         </ul>
     </li>
     <li><a href="#visuals-">👩🏽‍💻Visuals</a>
@@ -225,7 +227,16 @@
 - [Font Space](https://www.fontspace.com/)
 - [Freebiesbug Free Fonts](https://freebiesbug.com/free-fonts/)
 
-### 📡 Other
+### 📁Illustrations [^](#table)
+- [Drawkit](https://www.drawkit.com/), free illustrations weekly
+- [unDraw](https://undraw.co/illustrations)
+- [Open Doodles](https://opendoodles.com/)
+- [Glaze](https://www.glazestock.com/)
+- [Humaaans](https://humaaans.com/)
+- [Icons8](https://icons8.com/illustrations)
+- [Wearskribble](https://weareskribbl.com/)
+
+### 📡 Other [^](#table)
 - [Creative Market](https://creativemarket.com/free-goods), download four free quality assets each week!
 - [Free Design File](https://freedesignfile.com/) offeres a massive amount of vectors, stock photos, PSD files, icons and fonts for personal and comercial uses
 - [All Free Download](https://all-free-download.com/)
