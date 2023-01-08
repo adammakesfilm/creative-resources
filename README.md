@@ -326,7 +326,7 @@
 
 ---
 ### Contributing: [^](#table)
-Your contributions are always welcome! - If you want to contribute to this list, fill out the form below:
+Your contributions are always welcome! - If you want to contribute to this list, fill out the form below, send a pull request, *OR* open an issue.
 
 > [https://forms.gle/9QHYpvsmgPEhbQoS9](https://forms.gle/9QHYpvsmgPEhbQoS9)
 
