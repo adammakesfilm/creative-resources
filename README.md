@@ -1,18 +1,17 @@
 
-
-
 <div align="center">
- </a>
-    <p>
-    A curated list of free creative software, tools, and other resources geared towards Filmmakers, Photographers, 3D Artists, Hobbyists, and Students. Please note, that some resources here may not be open for commercial usage, so be sure to check all licensing information before using any software, resources or other assets.
-</div>
+ A curated list of free creative software, tools, and other resources geared towards Filmmakers, Photographers, 3D Artists, Hobbyists, and Students. Please note, that some resources here may not be open for commercial usage, so be sure to check all licensing information before using any software, resources or other assets.
+<p>
+<p> 
+	<a href="#contents"><img alt="counter" src="https://hits.sh/github.com/adammakesfilm/creative-resources.svg?style=for-the-badge&label=Views&color=0398a3"/></a> 
 
 <a name="table"></a>
+</p>
 <div align="center">
     <h2>Contents:</h2>
     <p>| <a href="#%EF%B8%8Fsoftware-">🕹️Software</a> | <a href="#documentstemplates-">📚Documents/Templates</a> | <a href="#-audio-">🎵 Audio</a> | <a href="#graphics-">✨Graphics</a> | <a href="#visuals-">👩🏽‍💻Visuals</a> | <a href="#education-">👩🏻‍🏫Education</a> |
 </div>
-
+<div align="left">
 <details><summary><b>Show Table of Contents:</b></summary>
 <ul>
     <li><a href="##%EF%B8%8Fsoftware-">🕹️Software</a>
