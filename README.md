@@ -1,5 +1,6 @@
 
 
+
 <div align="center">
  </a>
     <p>
@@ -101,6 +102,8 @@
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) is an all-in-one combination software for video editing, color correction, and motion graphics. It's color correction tools are industry standard.  
 - [AVID Media Composer | First](https://my.avid.com/get/media-composer-first) offers all of the power of the full version of Media Composer for free, with a few notable limits
 - [Kdenlive](https://kdenlive.org/en/) is a powerful free and open source cross-platform video editing program made by the KDE community. Feature rich and production ready.
+- [OpenShot](https://www.openshot.org/) is a open source editor offering robust features you'd expect from industry software
+- [Olive](https://www.olivevideoeditor.org/index.php) is a open source editor currently under development, be aware that it's still in alpha and is not considered stable <sup>*(as of v0.2)*
 
 ### 📷 Photo Editing [^](#table)
 - [Photopea](https://www.photopea.com/) is a web-based photo and graphics editor. It is used for image editing, making illustrations, web design or converting between different image formats.
