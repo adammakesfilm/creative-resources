@@ -329,3 +329,6 @@
 Your contributions are always welcome! - If you want to contribute to this list, fill out the form below:
 
 > [https://forms.gle/9QHYpvsmgPEhbQoS9](https://forms.gle/9QHYpvsmgPEhbQoS9)
+
+---
+## Big shoutout to [Awesome Blender by Agmmnn](https://github.com/agmmnn/awesome-blender) for inspiring this style of list, check out thier list for all things Blender
