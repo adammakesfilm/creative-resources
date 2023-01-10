@@ -1,4 +1,5 @@
 
+
 <div align="center">
  A curated list of free creative software, tools, and other resources geared towards Filmmakers, Photographers, 3D Artists, Hobbyists, and Students. Please note, that some resources here may not be open for commercial usage, so be sure to check all licensing information before using any software, resources or other assets.
 <p>
@@ -128,6 +129,8 @@
 ### 🪀Misc [^](#table)
 -  [TinyWow](https://tinywow.com/) offers PDF, video, image and other online tools to make your life easier all online for free.
 - [FontJoy](https://fontjoy.com/) helps you mix and match differnt fonts to find the perfect font pairing for you
+- [Jitter](https://jitter.video/?noredir=1) is a fremium simple motion design creator entirely in the browser 
+
 
 ---
 
@@ -283,6 +286,8 @@
 - [RocketStock free Adobe After Effects templates](https://www.rocketstock.com/free-after-effects-templates/) 
 - [PolyHaven](https://polyhaven.com/)
 - [Mixamo](https://www.mixamo.com/)
+- [Public Domain 3D Models on Sketchfab](https://sketchfab.com/nebulousflynn/collections/cc0-9e9b8c5442ab4b59ba16b6fa5e43b8da)
+- [Blenderkit](https://www.blenderkit.com/); has 12k+ free models, materials, HDRs & more
 
 ### 🎨Colors [^](#table)
 - [Lutify Me Free LUTs ](https://lutify.me/free-luts/) 
