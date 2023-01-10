@@ -135,6 +135,7 @@
 
 ### 💰Budgeting [^](#table)
 -   [RJFS Budgeting 101 Guide](https://docs.google.com/spreadsheets/d/1yJo8aCnW79PdwbLklW_h1FlQnAVOeM9TBsRmmJfF4es/edit?usp=sharing); This is a simplified beginner budget template meant for smaller productions.
+- [Freelancer Rate Calculator](https://docs.google.com/spreadsheets/d/1PMmlXqU9b-abEHy9nlh3FMcCwMktWy7R7sZ1nJ5rscQ/edit?usp=sharing); use this to see how much to charge to sustain your freelance business
 
 ### 📅Pre Production [^](#table)
 - [Moodboard Template](https://docs.google.com/presentation/d/1Rt4euIgNRtkK4XnsZGcJu71XDqi6VXVzD67CPTAn-LY/edit?usp=sharing); This template gives two exmaples of moodboards, one for a film and one for a website.
