@@ -316,6 +316,7 @@
 - 💿[Indy Mogul](https://www.youtube.com/user/indymogul)
 - 💿[Video Copilot](https://www.youtube.com/user/videocopilot)
 - 🧾 [Learn Color Grading](https://www.learncolorgrading.com/)
+- 🧾 [MIT OpenCourseWare](https://ocw.mit.edu/search/?t=Film+and+Video)
 
 ### 🗿 Modeling/Animation [^](#table)
 -   ☰ 🍩[Blender 3.0 Beginner Donut Tutorial by Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
