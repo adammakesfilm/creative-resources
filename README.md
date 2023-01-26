@@ -104,6 +104,7 @@
 - [Kdenlive](https://kdenlive.org/en/) is a powerful free and open source cross-platform video editing program made by the KDE community. Feature rich and production ready.
 - [OpenShot](https://www.openshot.org/) is a open source editor offering robust features you'd expect from industry software
 - [Olive](https://www.olivevideoeditor.org/index.php) is a open source editor currently under development, be aware that it's still in alpha and is not considered stable <sup>*(as of v0.2)*
+- [vidyo.ai](https://vidyo.ai/) allows you to create shortform videos from long ones instantly using AI
 
 ### 📷 Photo Editing [^](#table)
 - [Photopea](https://www.photopea.com/) is a web-based photo and graphics editor. It is used for image editing, making illustrations, web design or converting between different image formats.
@@ -130,6 +131,7 @@
 -  [TinyWow](https://tinywow.com/) offers PDF, video, image and other online tools to make your life easier all online for free.
 - [FontJoy](https://fontjoy.com/) helps you mix and match differnt fonts to find the perfect font pairing for you
 - [Jitter](https://jitter.video/?noredir=1) is a fremium simple motion design creator entirely in the browser 
+- [cutout.pro](https://www.cutout.pro/) offers a wide variety of creative tools powered by AI
 
 
 ---
@@ -165,17 +167,18 @@
 ## 🎵 Audio [^](#table)
 
 ### 🎼Royalty Free Music [^](#table)
-- [NoCopyrightSounds](https://www.youtube.com/user/NoCopyrightSounds)
-- [Vlog No Copyrught Music](https://www.youtube.com/channel/UCEickjZj99-JJIU8_IJ7J-Q)
-- [Bensound](https://www.bensound.com/royalty-free-music)
-- [Purpleplanet](https://www.purple-planet.com/)
-- [WhatFunk](https://www.whatfunk.com/)
-- [MusOpen](https://musopen.org/)
-- [MobyGratis](https://mobygratis.com/)
-- [Free Music Archive](https://freemusicarchive.org/)
-- [Incompetech](https://incompetech.com/music/royalty-free/music.html)
-- [Audionautix](https://audionautix.com/)
-- [TeknoAxe](http://teknoaxe.com/Home.php)
+- [NoCopyrightSounds](https://www.youtube.com/user/NoCopyrightSounds) is a YouTube channel full of copyright free eletronic music that can be used anywhere as long as you link back to the origional upload.
+- [Vlog No Copyrught Music](https://www.youtube.com/channel/UCEickjZj99-JJIU8_IJ7J-Q) is a YouTube channel full of copyright free for use by content creators, they add a new song every three days!
+- [Bensound](https://www.bensound.com/free-music-for-videos) provides music for non comercial projects with atribution back to them.
+- [Purpleplanet](https://www.purple-planet.com/) offerers a free licence for thier music that allows you to use it all over any social media with atribution back to them.
+- [WhatFunk](https://www.whatfunk.com/) makes music that can be used for commercial and non-commercial purposes; while credit isn't required it's appricated.
+- [MusOpen](https://musopen.org/) provides recordings, sheet music, and textbooks to the public for free, without copyright restrictions.
+- [MobyGratis](https://mobygratis.com/) is a resource for independent and non-profit filmmakers, film students, and anyone in need of free music for their independent, non-profit film, video, or short.
+- [Free Music Archive](https://freemusicarchive.org/home) offers free access to open licensed, original music by independent artists around the world.
+- [Incompetech](https://incompetech.com/) has free music for use anywhere with atribution.
+- [FreePD](https://freepd.com/) provides public domain music that is free for commercial use, free of royalties, free of attribution, and are all CC0.
+- [Audionautix](https://audionautix.com/) is full of music composed and produced by Jason Shaw. It's all royalty free, even for comercial purposes, as long as you provide credit.
+- [Beatoven.ai](https://www.beatoven.ai/) allows you to create royalty free AI generated music 
 
 ### 🎹Sample Kits [^](#table)
 - [Looperman](https://www.looperman.com/) 
@@ -246,6 +249,7 @@
 - [Creative Market](https://creativemarket.com/free-goods), download four free quality assets each week!
 - [Free Design File](https://freedesignfile.com/) offeres a massive amount of vectors, stock photos, PSD files, icons and fonts for personal and comercial uses
 - [All Free Download](https://all-free-download.com/)
+- Create ✨animated✨ custom emotes and emoji GIFs for Twitch, Slack, and Discord using [MakeEmoji](https://makeemoji.com/)
 ---
 
 ## 👩🏽‍💻Visuals [^](#table)
@@ -268,6 +272,7 @@
 - [Isorepublic](https://isorepublic.com/photos/) 
 - [PicJumbo](https://picjumbo.com/)
 - [FreeImages](https://www.freeimages.com/)
+- Create stock photos with AI using [STOCKIMG.AI](https://stockimg.ai/)
 
 ### 📼Stock Footage [^](#table)
 - [Pexels](https://www.pexels.com/videos/) 
@@ -316,7 +321,7 @@
 - 💿[Indy Mogul](https://www.youtube.com/user/indymogul)
 - 💿[Video Copilot](https://www.youtube.com/user/videocopilot)
 - 🧾 [Learn Color Grading](https://www.learncolorgrading.com/)
-- 🧾 [MIT OpenCourseWare](https://ocw.mit.edu/search/?t=Film+and+Video)
+- 🧾 [MIT OpenCourseWare](https://ocw.mit.edu/search/?t=Film%20and%20Video)
 
 ### 🗿 Modeling/Animation [^](#table)
 -   ☰ 🍩[Blender 3.0 Beginner Donut Tutorial by Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
@@ -340,4 +345,4 @@ Your contributions are always welcome! - If you want to contribute to this list,
 > [https://forms.gle/9QHYpvsmgPEhbQoS9](https://forms.gle/9QHYpvsmgPEhbQoS9)
 
 ---
-## Big shoutout to [Awesome Blender by Agmmnn](https://github.com/agmmnn/awesome-blender) for inspiring this style of list, check out thier list for all things Blender
+## Big shoutout to [Awesome Blender by Agmmnn](https://github.com/agmmnn/awesome-blender) for inspiring this style of list, check out their list for all things Blender
