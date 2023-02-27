@@ -1,4 +1,5 @@
 
+  
 
 <div align="center">
  A curated list of free creative software, tools, and other resources geared towards Filmmakers, Photographers, 3D Artists, Hobbyists, and Students. Please note, that some resources here may not be open for commercial usage, so be sure to check all licensing information before using any software, resources or other assets.
@@ -78,7 +79,7 @@
 
 ### 📝 Documents [^](#table)
 
--   [WriterDuet](https://www.writerduet.com/) is a screenwriting software for writing and editing screenplays and other forms of mass media with both a free and paid plan. *Plus 50% off for students and educators*
+-  [WriterDuet](https://www.writerduet.com/) is a screenwriting software for writing and editing screenplays and other forms of mass media with both a free and paid plan. *Plus 50% off for students and educators*
 - [BoardThoughts](http://www.boardthoughts.com/) is a free online storyboard creator, it may not look that nice but it works well!
 - [I❤PDF](https://www.ilovepdf.com/) gives a variety of PDF tools all in one place. All are 100% FREE and easy to use! Merge, split, compress, convert, rotate, unlock and watermark PDFs with just a few clicks.
 
@@ -179,6 +180,7 @@
 - [FreePD](https://freepd.com/) provides public domain music that is free for commercial use, free of royalties, free of attribution, and are all CC0.
 - [Audionautix](https://audionautix.com/) is full of music composed and produced by Jason Shaw. It's all royalty free, even for comercial purposes, as long as you provide credit.
 - [Beatoven.ai](https://www.beatoven.ai/) allows you to create royalty free AI generated music 
+- [Pixabay](https://pixabay.com/music/) stock music
 
 ### 🎹Sample Kits [^](#table)
 - [Looperman](https://www.looperman.com/) 
@@ -193,6 +195,7 @@
 - [ZapSplat](https://www.zapsplat.com/)
 - [Sound Gator](https://www.soundgator.com/)
 - [Sound Bible](https://soundbible.com/free-sound-effects-1.html)
+- [Pixabay](https://pixabay.com/sound-effects/) stock sfx
 
 ---
 
@@ -204,6 +207,7 @@
 - [Vector.me](https://vector.me/)
 - [Vecor Portal](https://vectorportal.com/)
 - [CGI Spread](http://cgispread.com/category/free-vectors/) Free Vectors
+- [Pixabay](https://pixabay.com/vectors/) stock vectors
 
 ### 🧱Textures [^](#table)
 - [Spoon Graphics Freebies](https://blog.spoongraphics.co.uk/category/freebies)
@@ -244,12 +248,18 @@
 - [Humaaans](https://humaaans.com/)
 - [Icons8](https://icons8.com/illustrations)
 - [Wearskribble](https://weareskribbl.com/)
+- [Pixabay](https://pixabay.com/illustrations/) stock illustations
 
 ### 📡 Other [^](#table)
-- [Creative Market](https://creativemarket.com/free-goods), download four free quality assets each week!
+- [Creative Market](https://creativemarket.com/free-goods), download free quality assets each week!
 - [Free Design File](https://freedesignfile.com/) offeres a massive amount of vectors, stock photos, PSD files, icons and fonts for personal and comercial uses
 - [All Free Download](https://all-free-download.com/)
 - Create ✨animated✨ custom emotes and emoji GIFs for Twitch, Slack, and Discord using [MakeEmoji](https://makeemoji.com/)
+- [FilmGrab](https://film-grab.com/)’s library comprises over 2500 separate films and 160k images all hand picked, representing the most comprehensive library of film shots to be used for references
+- [Mapcrunch](https://www.mapcrunch.com/) drops you in a random street view location which can be used for landscape references
+- [Pixabay](https://pixabay.com/gifs/) stock gifs
+- [x6ud's](https://x6ud.github.io/) tool for animal references
+- [Reference Angle](http://referenceangle.com/) is great for getting reference pictures for faces with specfic emotions or angles
 ---
 
 ## 👩🏽‍💻Visuals [^](#table)
@@ -273,6 +283,8 @@
 - [PicJumbo](https://picjumbo.com/)
 - [FreeImages](https://www.freeimages.com/)
 - Create stock photos with AI using [STOCKIMG.AI](https://stockimg.ai/)
+- [Photobash.co](https://photobash.co/packs?sort=3&category=free-39) offers only a few free stock packages but they are filled to the brim each
+- [Pixabay](https://pixabay.com/) stock photos
 
 ### 📼Stock Footage [^](#table)
 - [Pexels](https://www.pexels.com/videos/) 
@@ -280,6 +292,7 @@
 - [Pond5](https://www.pond5.com/free/footage) 
 - [Isorepublic](https://isorepublic.com/videos/) 
 - [FreeFx](https://www.freefx.net/)
+- [Pixabay](https://pixabay.com/videos/) stock footage
 
 ### 🌟Visual Effects [^](#table)
 - [Footage Crate](https://footagecrate.com/free-video-effects-categories.html) 
@@ -305,6 +318,7 @@
 - [Colorhunt](https://colorhunt.co/)
 - [Colordot](https://color.hailpixel.com/)
 - [Eva Design System](https://colors.eva.design/)
+- [POLINE](https://meodai.github.io/poline/) is an enigmatic color palette generator, that harnesses the mystical witchcraft of polar coordinates.
 
 ---
 
