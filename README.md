@@ -11,7 +11,7 @@
 </p>
 <div align="center">
     <h2>Contents:</h2>
-    <p>| <a href="#%EF%B8%8Fsoftware-">🕹️Software</a> | <a href="#documentstemplates-">📚Documents/Templates</a> | <a href="#-audio-">🎵 Audio</a> | <a href="#graphics-">✨Graphics</a> | <a href="#visuals-">👩🏽‍💻Visuals</a> | <a href="#education-">👩🏻‍🏫Education</a> |
+    <p>| <a href="#%EF%B8%8Fsoftware-">🕹️Software</a> | <a href="#documentstemplates-">📚Documents/Templates</a> | <a href="#-audio-">🎵 Audio</a> | <a href="#graphics-">✨Graphics</a> | <a href="#visuals-">👩🏽‍💻Visuals</a> | <a href="#education-">👩🏻‍🏫Education</a> | <a href="#contributing-"> 👋 Contribue </a> 
 </div>
 <div align="left">
 <details><summary><b>Show Table of Contents:</b></summary>
