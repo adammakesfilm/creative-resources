@@ -133,6 +133,7 @@
 - [FontJoy](https://fontjoy.com/) helps you mix and match differnt fonts to find the perfect font pairing for you
 - [Jitter](https://jitter.video/?noredir=1) is a fremium simple motion design creator entirely in the browser 
 - [cutout.pro](https://www.cutout.pro/) offers a wide variety of creative tools powered by AI
+- [Handbrake](https://handbrake.fr/) is a open-source tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
 
 ---
