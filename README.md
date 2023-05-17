@@ -1,4 +1,5 @@
 
+
   
 
 <div align="center">
@@ -91,6 +92,7 @@
 - [FireAlpaca](https://firealpaca.com/) is the free Digital Painting Software that is available in 10 languages and compatible with both Mac and Windows. Simple tools and controls let you draw an illustration easily.
 - [Inkscape](https://inkscape.org/) is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.
 - [Figma](https://www.figma.com/) is a web-based graphics editing and design app. You can use it to do all kinds of graphic design work from wireframing websites, designing mobile app interfaces, prototyping designs, crafting social media posts, and everything in between.
+- [BeFunky's](https://www.befunky.com/) all-in-one online Creative Platform has everything you need to easily edit photos, create graphic designs, and make photo collages.
 
 ### 🎧 Audio Editing [^](#table)
 -  [LMMS](https://lmms.io/) is a free and open source DAW available for Linux, Windows and macOS. It provides all the features you would expect in standard DAW software.
@@ -106,6 +108,7 @@
 - [OpenShot](https://www.openshot.org/) is a open source editor offering robust features you'd expect from industry software
 - [Olive](https://www.olivevideoeditor.org/index.php) is a open source editor currently under development, be aware that it's still in alpha and is not considered stable <sup>*(as of v0.2)*
 - [vidyo.ai](https://vidyo.ai/) allows you to create shortform videos from long ones instantly using AI
+- [VidMix](https://vidmix.app/) is a simple video editor with a variety of tools that works entierly in your browser for free
 
 ### 📷 Photo Editing [^](#table)
 - [Photopea](https://www.photopea.com/) is a web-based photo and graphics editor. It is used for image editing, making illustrations, web design or converting between different image formats.
@@ -113,6 +116,7 @@
 - [GIMP](https://www.gimp.org/) is a free and open-source raster graphics editor used for image manipulation and image editing, free-form drawing, transcoding between different image file formats, and more specialized tasks.
 - [RawTherapee](http://rawtherapee.com/) is capable of editing Raw photo files, as well as other formats. With its extensive range of editing tools, you'll be able to correct distortion, boost colours, recover details and much more.
 - [Darktable](https://www.darktable.org/) is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers.
+- {Photopea}(https://www.photopea.com/) is a free online photo editor supporting PSD, XCF, Sketch, XD and CDR formats and works entirely in browser
 
 ### 👾 Visual Effects [^](#table)
 -   [HitFilm](https://fxhome.com/product/hitfilm) is a free video editing and visual effects software with professional-grade VFX tools for you to make awesome content, films or gaming videos.
