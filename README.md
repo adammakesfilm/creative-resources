@@ -116,7 +116,7 @@
 - [GIMP](https://www.gimp.org/) is a free and open-source raster graphics editor used for image manipulation and image editing, free-form drawing, transcoding between different image file formats, and more specialized tasks.
 - [RawTherapee](http://rawtherapee.com/) is capable of editing Raw photo files, as well as other formats. With its extensive range of editing tools, you'll be able to correct distortion, boost colours, recover details and much more.
 - [Darktable](https://www.darktable.org/) is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers.
-- {Photopea}(https://www.photopea.com/) is a free online photo editor supporting PSD, XCF, Sketch, XD and CDR formats and works entirely in browser
+- [Photopea](https://www.photopea.com/) is a free online photo editor supporting PSD, XCF, Sketch, XD and CDR formats and works entirely in browser
 
 ### 👾 Visual Effects [^](#table)
 -   [HitFilm](https://fxhome.com/product/hitfilm) is a free video editing and visual effects software with professional-grade VFX tools for you to make awesome content, films or gaming videos.
