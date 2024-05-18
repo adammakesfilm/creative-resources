@@ -87,7 +87,6 @@
 ### 🎨 Graphics [^](#table)
 - [Canva](https://www.canva.com/) is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
 -  [Krita](https://krita.org/en/) is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
-- [SketchBook](https://www.sketchbook.com/) is sketching, painting, and illustration software for all platforms and devices All with professional-grade drawing tools in a beautiful interface.
 - [Paint.NET](https://www.getpaint.net/) is image and photo editing software for PCs that run Windows. It features an intuitive and innovative user interface with support for layers, unlimited undo, special effects, and a wide variety of useful and powerful tools
 - [FireAlpaca](https://firealpaca.com/) is the free Digital Painting Software that is available in 10 languages and compatible with both Mac and Windows. Simple tools and controls let you draw an illustration easily.
 - [Inkscape](https://inkscape.org/) is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.
