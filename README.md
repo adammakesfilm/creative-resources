@@ -1,7 +1,3 @@
-
-
-  
-
 <div align="center">
  A curated list of free creative software, tools, and other resources geared towards Filmmakers, Photographers, 3D Artists, Hobbyists, and Students. Please note, that some resources here may not be open for commercial usage, so be sure to check all licensing information before using any software, resources or other assets.
 <p>
@@ -21,10 +17,11 @@
         <ul>
             <li><a href="#-documents-">📝 Documents</a></li>
             <li><a href="#-graphics-">🎨 Graphics</a></li>
-            <li><a href="#-audio-editing-">🎧 Audio Editing</a></li>
+            <li><a href="#-audio">🎧 Audio</a></li>
             <li><a href="#-video-editing">✂ Video Editing</a></li>
             <li><a href="#-photo-editing-">📷 Photo Editing</a></li>
             <li><a href="#-visual-effects-">👾 Visual Effects</a></li>
+            <li><a href="#-motion-designui-design-">🚄 Motion Design/UI Design</a></li> 
             <li><a href="#%EF%B8%8F-3d-modelinganimation">🤸🏾‍♀️ 3D Modeling/Animation</a></li>
             <li><a href="#misc-">🪀 Misc</a></li>
         </ul>
@@ -83,6 +80,7 @@
 -  [WriterDuet](https://www.writerduet.com/) is a screenwriting software for writing and editing screenplays and other forms of mass media with both a free and paid plan. *Plus 50% off for students and educators*
 - [BoardThoughts](http://www.boardthoughts.com/) is a free online storyboard creator, it may not look that nice but it works well!
 - [I❤PDF](https://www.ilovepdf.com/) gives a variety of PDF tools all in one place. All are 100% FREE and easy to use! Merge, split, compress, convert, rotate, unlock and watermark PDFs with just a few clicks.
+- [Scribus](https://sourceforge.net/projects/scribus/) can be used to create professional-looking documents like books, newsletters, and brochures
 
 ### 🎨 Graphics [^](#table)
 - [Canva](https://www.canva.com/) is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
@@ -91,13 +89,19 @@
 - [FireAlpaca](https://firealpaca.com/) is the free Digital Painting Software that is available in 10 languages and compatible with both Mac and Windows. Simple tools and controls let you draw an illustration easily.
 - [Inkscape](https://inkscape.org/) is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.
 - [Figma](https://www.figma.com/) is a web-based graphics editing and design app. You can use it to do all kinds of graphic design work from wireframing websites, designing mobile app interfaces, prototyping designs, crafting social media posts, and everything in between.
-- [BeFunky's](https://www.befunky.com/) all-in-one online Creative Platform has everything you need to easily edit photos, create graphic designs, and make photo collages.
+- [BeFunky's](https://www.befunky.com/) is all-in-one online Creative Platform has everything you need to easily edit photos, create graphic designs, and make photo collages.
+- [Sumo Paint](https://paint.sumo.app/) is a a free painting and drawing web application similar to Adobe Photoshop. 
+- [MyPaint](https://mypaint.app/) is a free and open-source painting program that works well with graphics tablets.
+- [Vectr](https://vectr.com/) is a free graphics editor that allows you to design and edit vector graphics online, without a steep learning curve.
 
-### 🎧 Audio Editing [^](#table)
+### 🎧 Audio[^](#table)
 -  [LMMS](https://lmms.io/) is a free and open source DAW available for Linux, Windows and macOS. It provides all the features you would expect in standard DAW software.
 - [Cakewalk](https://www.bandlab.com/products/cakewalk?lang=en) by BandLab , is a professional tool to compose, record, edit, mix, master and share songs all effortlessly and for free
 - [Audacity](https://www.audacityteam.org/) is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
 - [Ocenaudio](https://www.ocenaudio.com/) is a cross-platform, easy to use, fast and functional audio editor. It is the ideal software for people who need to edit and analyze audio files without complications
+- [Fairlight](https://www.blackmagicdesign.com/products/davinciresolve/fairlight) lets you work with advanced 3D audio formats such as Dolby ATMOS, Auro 3D, 3D Spaceview™ and more
+- [Ardour](https://ardour.org/) is an open source DAW software
+- [Waveform](https://www.tracktion.com/products/waveform-free) is the world’s best, fully featured, completely unlimited free DAW for all music creators
 
 ### ✂ Video Editing[^](#table)
 -   [Shotcut](https://shotcut.org/) is a free and open-source, cross-platform video, audio, and image editing program for FreeBSD, Linux, macOS and Windows.
@@ -115,7 +119,7 @@
 - [GIMP](https://www.gimp.org/) is a free and open-source raster graphics editor used for image manipulation and image editing, free-form drawing, transcoding between different image file formats, and more specialized tasks.
 - [RawTherapee](http://rawtherapee.com/) is capable of editing Raw photo files, as well as other formats. With its extensive range of editing tools, you'll be able to correct distortion, boost colours, recover details and much more.
 - [Darktable](https://www.darktable.org/) is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers.
-- [Photopea](https://www.photopea.com/) is a free online photo editor supporting PSD, XCF, Sketch, XD and CDR formats and works entirely in browser
+- [Digikam](https://www.digikam.org/) provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
 
 ### 👾 Visual Effects [^](#table)
 -   [HitFilm](https://fxhome.com/product/hitfilm) is a free video editing and visual effects software with professional-grade VFX tools for you to make awesome content, films or gaming videos.
@@ -126,18 +130,30 @@
 - [Fusion](https://www.blackmagicdesign.com/products/fusion) features a true 3D workspace for compositing and creating cinematic visual effects and advanced broadcast motion graphics. It's ideal for adding 3D models, objects, text or particles to your footage.
 - [Unreal Engine](https://www.unrealengine.com/en-US) is the world's most open and advanced real-time 3D creation tool for photoreal visuals and immersive experiences.
 
+### 🚄 Motion Design/UI Design[^](#table)
+- [Jitter](https://jitter.video/?noredir=1) is a fremium simple motion design creator entirely in the browser 
+- [PenPot](https://penpot.app/) is a web-based open-source design tool that bridges the gap between designers and developers.
+- [Draftoola](https://github.com/nitramr/Draftoola) is an open source UI/UX prototyping tool for designing both static and animated layouts. 
+- [Figma](https://www.figma.com/) is an all-in-one platform where you can design and prototype
+- [Framer](https://www.framer.com/) is an intuitive tool for designing and publishing responsive websites.
+- [Cavalry](https://cavalry.scenegroup.co/) allows you to real-time for advertising, mobile, data visualisation, web, broadcast, ui, generative art, experiential, games and more.
+- [Rive](https://rive.app/) is a real-time interactive design and animation tool that helps teams create and run interactive animations anywhere
+- [Fable](https://www.fable.app/) allows you to compose incredible motion content with all the tools you need, and export to any format without leaving the browser.
+- [Enve](https://maurycyliebner.github.io/) allows you to create vector animations, raster animations, and even use sound and video files.
+
 ### 🤸🏾‍♀️ 3D Modeling/Animation[^](#table)
 - [Blender](https://www.blender.org/) is a free and open-source 3D computer graphics software tool set used for creating animated films, visual effects, art, 3D-printed models, motion graphics, interactive 3D applications, virtual reality, and, formerly, video games.
 - [Synfig Studio](https://www.synfig.org/) is a free and open-source 2D animation software, designed as powerful industrial-strength solution for creating film-quality animation using a vector and bitmap artwork.
 -  [Blockbench](https://www.blockbench.net/) is a 3D modeling program that allows you to create models only using voxels
+- [Open Toonz](https://opentoonz.github.io/e/) is an open-source animation software developed in part by Studio Ghibli for use in thier projects. 
+- [Pencil2D](https://www.pencil2d.org/) is an easy, intuitive tool to make 2D hand-drawn animations.
+- [Material Maker](https://www.materialmaker.org/) is a procedural materials authoring tool based on the Godot Engine.
 
 ### 🪀Misc [^](#table)
 -  [TinyWow](https://tinywow.com/) offers PDF, video, image and other online tools to make your life easier all online for free.
 - [FontJoy](https://fontjoy.com/) helps you mix and match differnt fonts to find the perfect font pairing for you
-- [Jitter](https://jitter.video/?noredir=1) is a fremium simple motion design creator entirely in the browser 
 - [cutout.pro](https://www.cutout.pro/) offers a wide variety of creative tools powered by AI
 - [Handbrake](https://handbrake.fr/) is a open-source tool for converting video from nearly any format to a selection of modern, widely supported codecs.
-
 
 ---
 
