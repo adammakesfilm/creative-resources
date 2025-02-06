@@ -355,7 +355,6 @@
 - 💿[Film Riot](https://www.youtube.com/@filmriot)
 - 💿[Indy Mogul](https://www.youtube.com/user/indymogul)
 - 💿[Video Copilot](https://www.youtube.com/user/videocopilot)
-- 🧾 [Learn Color Grading](https://www.learncolorgrading.com/)
 - 🧾 [MIT OpenCourseWare](https://ocw.mit.edu/search/?t=Film%20and%20Video)
 
 ### 🗿 Modeling/Animation [^](#table)
