@@ -109,7 +109,7 @@
 - [AVID Media Composer | First](https://my.avid.com/get/media-composer-first) offers all of the power of the full version of Media Composer for free, with a few notable limits.
 - [Kdenlive](https://kdenlive.org/en/) is a powerful free and open-source cross-platform video editing program made by the KDE community. Feature-rich and production-ready.
 - [OpenShot](https://www.openshot.org/) is an open-source editor offering robust features you'd expect from industry software.
-- [Olive](https://www.olivevideoeditor.org/) is an open-source editor currently under development, be aware that it's still in alpha and is not considered stable <sup>*(as of v0.2)*.
+- [Olive](https://www.olivevideoeditor.org/) is an open-source editor that's currently in a pre-release state. 
 - [vidyo.ai](https://vidyo.ai/) allows you to create short-form videos from long ones instantly using AI.
 - [VidMix](https://vidmix.app/) is a simple video editor with a variety of tools that works entirely in your browser for free.
 
