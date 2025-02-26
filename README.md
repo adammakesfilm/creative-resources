@@ -1,6 +1,5 @@
 <div align="center">
- A curated list of free creative software, tools, and other resources geared towards Filmmakers, Photographers, 3D Artists, Hobbyists, and Students. Please note, that some resources here may not be open for commercial usage, so be sure to check all licensing information before using any software, resources or other assets.
-<p>
+Find fantastic free creative resources here! This list is perfect for filmmakers, photographers, 3D artists, hobbyists, and students. Just be sure to double-check the licensing before using anything commercially.<p>
 <p> 
 	<a href="#contents"><img alt="counter" src="https://hits.sh/github.com/adammakesfilm/creative-resources.svg?style=for-the-badge&label=Views&color=0398a3"/></a> 
 
