@@ -76,14 +76,14 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 
 ### 📝 Documents [^](#table)
 
--  [WriterDuet](https://www.writerduet.com/) is a screenwriting software for writing and editing screenplays and other forms of mass media with both a free and paid plan. *Plus 50% off for students and educators*
+- [WriterDuet](https://www.writerduet.com/) is a screenwriting software for writing and editing screenplays and other forms of mass media with both a free and paid plan. *Plus 50% off for students and educators*
 - [BoardThoughts](http://www.boardthoughts.com/) is a free online storyboard creator, it may not look that nice but it works well!
 - [I❤PDF](https://www.ilovepdf.com/) gives a variety of PDF tools all in one place. All are 100% FREE and easy to use! Merge, split, compress, convert, rotate, unlock, and watermark PDFs with just a few clicks.
 - [Scribus](https://sourceforge.net/projects/scribus/) can be used to create professional-looking documents like books, newsletters, and brochures.
 
 ### 🎨 Graphics [^](#table)
 - [Canva](https://www.canva.com/) is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
--  [Krita](https://krita.org/en/) is a professional FREE and open source painting program. It is made by artists who want to see affordable art tools for everyone.
+- [Krita](https://krita.org/en/) is a professional FREE and open source painting program. It is made by artists who want to see affordable art tools for everyone.
 - [Paint.NET](https://www.getpaint.net/) is image and photo editing software for PCs that run Windows. It features an intuitive and innovative user interface with support for layers, unlimited undo, special effects, and a wide variety of useful and powerful tools.
 - [FireAlpaca](https://firealpaca.com/) is a free Digital Painting Software that is available in 10 languages and compatible with both Mac and Windows. Simple tools and controls let you draw an illustration easily.
 - [Inkscape](https://inkscape.org/) is professional quality vector graphics software that runs on Linux, Mac OS X, and Windows desktop computers.
@@ -128,6 +128,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - With [Mari Non-commercial](https://www.foundry.com/products/mari/non-commercial), you get access to a free, non-watermarked version of Mari allowing you to create professional-looking textures.
 - [Fusion](https://www.blackmagicdesign.com/products/fusion) features a true 3D workspace for compositing and creating cinematic visual effects and advanced broadcast motion graphics. It's ideal for adding 3D models, objects, text, or particles to your footage.
 - [Unreal Engine](https://www.unrealengine.com/en-US) is the world's most open and advanced real-time 3D creation tool for photoreal visuals and immersive experiences.
+- [PIKIMOV](https://pikimov.com/) is a completly free, browser based, video editor and motion design software
 
 ### 🚄 Motion Design/UI Design[^](#table)
 - [Jitter](https://jitter.video/?noredir=1) is a freemium simple motion design creator entirely in the browser.
