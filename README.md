@@ -114,7 +114,6 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 
 ### 📷 Photo Editing [^](#table)
 - [Photopea](https://www.photopea.com/) is a web-based photo and graphics editor. It is used for image editing, making illustrations, web design, or converting between different image formats.
-- [Pixlr](https://pixlr.com/) is a cloud-based set of image editing tools and utilities, including several photo editors and a photo-sharing service.
 - [GIMP](https://www.gimp.org/) is a free and open-source raster graphics editor used for image manipulation and image editing, free-form drawing, transcoding between different image file formats, and more specialized tasks.
 - [RawTherapee](http://rawtherapee.com/) is capable of editing Raw photo files, as well as other formats. With its extensive range of editing tools, you'll be able to correct distortion, boost colors, recover details, and much more.
 - [Darktable](https://www.darktable.org/) is an open-source photography workflow application and raw developer. A virtual light table and darkroom for photographers.
