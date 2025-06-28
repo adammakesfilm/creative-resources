@@ -83,6 +83,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 
 ### 🎨 Graphics [^](#table)
 - [Canva](https://www.canva.com/) is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
+- [Adobe Espress](https://www.adobe.com/express/create) is a free all-in-one design, photo, and video tool to make content creation easy. Quickly and easily make stunning social content, videos, logos, ...
 - [Krita](https://krita.org/en/) is a professional FREE and open source painting program. It is made by artists who want to see affordable art tools for everyone.
 - [Paint.NET](https://www.getpaint.net/) is image and photo editing software for PCs that run Windows. It features an intuitive and innovative user interface with support for layers, unlimited undo, special effects, and a wide variety of useful and powerful tools.
 - [FireAlpaca](https://firealpaca.com/) is a free Digital Painting Software that is available in 10 languages and compatible with both Mac and Windows. Simple tools and controls let you draw an illustration easily.
