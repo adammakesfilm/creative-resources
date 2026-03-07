@@ -171,7 +171,8 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 
 ### ⚖ Production [^](#table)
 -   This [Call Sheet Template](https://docs.google.com/spreadsheets/d/1McAO3S6b6Kswd2BwAAEoXkil6G0gBKmscShUuCNjz6M/edit?usp=sharing) gives you a lot of flexibility to make your production as efficient as you want.
-- [Shotlist Template](https://docs.google.com/spreadsheets/d/1m-5ia1bIhMhNcMyZbVv0Hn-YYYQHjarfiSv1keAcbC0/edit?usp=sharing) by StudioBinder, it provides a variety of camera "lingo" for use.  
+- [Shotlist Template](https://docs.google.com/spreadsheets/d/1m-5ia1bIhMhNcMyZbVv0Hn-YYYQHjarfiSv1keAcbC0/edit?usp=sharing) by StudioBinder, it provides a variety of camera "lingo" for use.
+- [Storiara](https://storiara.com) is a planning platform that instantly turn your scripts into professional shooting schedules and budgets. Automatically break down scenes, schedule shots, send call sheets, and optimize budgets, saving weeks of manual work and thousands in logistics.
 - [Sound Report](https://drive.google.com/file/d/0B8E7f-hj0ZlUV3hwdC1FUDY0dHc/view?resourcekey=0-9KE9hEgkSFxhnbOV6ZG9_w) Template by Filmscourcing
 
 ### 🎓Creative Development [^](#table)
