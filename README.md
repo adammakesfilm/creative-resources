@@ -75,9 +75,6 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 ## 🕹️Software [^](#table)
 
 ### 📝 Documents [^](#table)
-
-- [WriterDuet](https://www.writerduet.com/) is a screenwriting software for writing and editing screenplays and other forms of mass media with both a free and paid plan. *Plus 50% off for students and educators*
-- [BoardThoughts](http://www.boardthoughts.com/) is a free online storyboard creator, it may not look that nice but it works well!
 - [I❤PDF](https://www.ilovepdf.com/) gives a variety of PDF tools all in one place. All are 100% FREE and easy to use! Merge, split, compress, convert, rotate, unlock, and watermark PDFs with just a few clicks.
 - [Scribus](https://sourceforge.net/projects/scribus/) can be used to create professional-looking documents like books, newsletters, and brochures.
 
@@ -92,7 +89,6 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [BeFunky's](https://www.befunky.com/) is an all-in-one online Creative Platform has everything you need to easily edit photos, create graphic designs, and make photo collages.
 - [Sumo Paint](https://paint.sumo.app/) is a free painting and drawing web application similar to Adobe Photoshop. 
 - [MyPaint](https://mypaint.app/) is a free and open-source painting program that works well with graphics tablets.
-- [Vectr](https://vectr.com/) is a free graphics editor that allows you to design and edit vector graphics online, without a steep learning curve.
 
 ### 🎧 Audio[^](#table)
 -  [LMMS](https://lmms.io/) is a free and open source DAW available for Linux, Windows, and macOS. It provides all the features you would expect in standard DAW software.
@@ -109,8 +105,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [AVID Media Composer | First](https://my.avid.com/get/media-composer-first) offers all of the power of the full version of Media Composer for free, with a few notable limits.
 - [Kdenlive](https://kdenlive.org/en/) is a powerful free and open-source cross-platform video editing program made by the KDE community. Feature-rich and production-ready.
 - [OpenShot](https://www.openshot.org/) is an open-source editor offering robust features you'd expect from industry software.
-- [Olive](https://www.olivevideoeditor.org/) is an open-source editor that's currently in a pre-release state. 
-- [vidyo.ai](https://vidyo.ai/) allows you to create short-form videos from long ones instantly using AI.
+- [Olive](https://github.com/olive-editor/olive) is an open-source editor that's currently in a pre-release state. 
 - [VidMix](https://vidmix.app/) is a simple video editor with a variety of tools that works entirely in your browser for free.
 
 ### 📷 Photo Editing [^](#table)
@@ -121,7 +116,6 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [Digikam](https://www.digikam.org/) provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
 
 ### 👾 Visual Effects [^](#table)
-- [HitFilm](https://fxhome.com/product/hitfilm) is a free video editing and visual effects software with professional-grade VFX tools for you to make awesome content, films, or gaming videos.
 - [Natron](https://natrongithub.github.io/) is a free, open-source video compositor, similar in functionality to Adobe After Effects, Foundry's Nuke, or Blackmagic Fusion.
 - [Houdini Apprentice](https://www.sidefx.com/products/houdini-apprentice/) is a free version of Houdini FX that students, artists, and hobbyists can use to create personal non-commercial projects.
 - With [Nuke Non-commercial](https://www.foundry.com/products/nuke-family/non-commercial), you get access to free, non-watermarked versions of Nuke, NukeX, and even top-of-the-line Nuke Studio allowing you to composite, edit and finish with industry-leading tools.
@@ -135,7 +129,6 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [PenPot](https://penpot.app/) is a web-based open-source design tool that bridges the gap between designers and developers.
 - [Draftoola](https://github.com/nitramr/Draftoola) is an open-source UI/UX prototyping tool for designing both static and animated layouts. 
 - [Figma](https://www.figma.com/) is an all-in-one platform where you can design and prototype.
-- [Framer](https://www.framer.com/) is an intuitive tool for designing and publishing responsive websites.
 - [Cavalry](https://cavalry.scenegroup.co/) can be used in real-time for advertising, mobile, data visualization, web, broadcast, UI, generative art, experiential, games, and more.
 - [Rive](https://rive.app/) is a real-time interactive design and animation tool that helps teams create and run interactive animations anywhere.
 - [Fable](https://www.fable.app/) allows you to compose incredible motion content with all the necessary tools, and export to any format without leaving the browser.
@@ -150,19 +143,14 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [Material Maker](https://www.materialmaker.org/) is a procedural material authoring tool based on the Godot Engine.
 
 ### 🪀Misc [^](#table)
--  [TinyWow](https://tinywow.com/) offers PDF, video, image, and other online tools to make your life easier all online for free.
 - [FontJoy](https://fontjoy.com/) helps you mix and match different fonts to find the perfect font pairing for you.
-- [cutout.pro](https://www.cutout.pro/) offers a wide variety of creative tools powered by AI.
 - [Handbrake](https://handbrake.fr/) is an open-source tool for converting video from nearly any format to a selection of modern, widely supported codecs.
-- [Make your screen a RGB light panel](https://rgbscreen.org/) allows you to turn many screens with a browser into a colorful light.
-
 ---
 
 ## 📚Documents/Templates [^](#table)
 
 ### 💰Budgeting [^](#table)
--   [RJFS Budgeting 101 Guide](https://docs.google.com/spreadsheets/d/1yJo8aCnW79PdwbLklW_h1FlQnAVOeM9TBsRmmJfF4es/edit?usp=sharing); This is a simplified beginner budget template meant for smaller productions.
-- [Freelancer Rate Calculator](https://docs.google.com/spreadsheets/d/1PMmlXqU9b-abEHy9nlh3FMcCwMktWy7R7sZ1nJ5rscQ/edit?usp=sharing); use this to see how much to charge to sustain your freelance business.
+- [RJFS Budgeting 101 Guide](https://docs.google.com/spreadsheets/d/1yJo8aCnW79PdwbLklW_h1FlQnAVOeM9TBsRmmJfF4es/edit?usp=sharing); This is a simplified beginner budget template meant for smaller productions.
 
 ### 📅Pre Production [^](#table)
 - [Moodboard Template](https://docs.google.com/presentation/d/1Rt4euIgNRtkK4XnsZGcJu71XDqi6VXVzD67CPTAn-LY/edit?usp=sharing); This template gives two examples of mood boards, one for a film and one for a website.
@@ -191,27 +179,22 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 ### 🎼Royalty Free Music [^](#table)
 - [NoCopyrightSounds](https://www.youtube.com/user/NoCopyrightSounds) is a YouTube channel full of copyright-free electronic music that can be used anywhere as long as you link back to the original upload.
 - [Vlog No Copyright Music](https://www.youtube.com/channel/UCEickjZj99-JJIU8_IJ7J-Q) is a YouTube channel full of copyright free for use by content creators, they add a new song every three days!
-- [Bensound](https://www.bensound.com/free-music-for-videos) provides music for noncomercial projects with attribution back to them.
 - [Purpleplanet](https://www.purple-planet.com/) offers a free license for their music that allows you to use it all over any social media with attribution back to them.
 - [WhatFunk](https://www.whatfunk.com/) makes music that can be used for commercial and non-commercial purposes; while credit isn't required it's appreciated.
 - [MusOpen](https://musopen.org/) provides recordings, sheet music, and textbooks to the public for free, without copyright restrictions.
 - [MobyGratis](https://mobygratis.com/) is a resource for independent and non-profit filmmakers, film students, and anyone in need of free music for their independent, non-profit film, video, or short.
 - [Free Music Archive](https://freemusicarchive.org/home) offers free access to openly licensed, original music by independent artists around the world.
 - [Incompetech](https://incompetech.com/) has free music for use anywhere with attribution.
-- [FreePD](https://freepd.com/) provides public domain music that is free for commercial use, free of royalties, free of attribution and all CC0.
 - [Audionautix](https://audionautix.com/) is full of music composed and produced by Jason Shaw. It's all royalty-free, even for commercial purposes, as long as you provide credit.
-- [Beatoven.ai](https://www.beatoven.ai/) allows you to create royalty-free AI generated music.
 - [Pixabay](https://pixabay.com/music/) stock music
 
 ### 🎹Sample Kits [^](#table)
-- [Looperman](https://www.looperman.com/) 
 - [Cymatics](https://cymatics.fm/pages/free-download-vault)
 - [99 Sounds](https://99sounds.org/)
 
 ### 🥁Sound Effects [^](#table)
 - [SoundsCrate](https://soundscrate.com/)
 - [Freesound](https://freesound.org/)
-- [Sweet Sound Effects](http://sweetsoundeffects.com/)
 - [Free SFX](https://www.freesfx.co.uk/)
 - [ZapSplat](https://www.zapsplat.com/)
 - [Sound Gator](https://www.soundgator.com/)
@@ -224,16 +207,13 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 
 ### 🔳Vectors [^](#table)
 - [Gratisography](https://gratisography.com/photos/vectors/)
-- [Free Vector](https://www.freevector.com/)
 - [Vector.me](https://vector.me/)
 - [Vecor Portal](https://vectorportal.com/)
 - [CGI Spread](http://cgispread.com/category/free-vectors/) Free Vectors
 - [Pixabay](https://pixabay.com/vectors/) stock vectors
 
 ### 🧱Textures [^](#table)
-- [Spoon Graphics Freebies](https://blog.spoongraphics.co.uk/category/freebies)
 - [Toptal](https://www.toptal.com/designers/subtlepatterns/) Subtle Patterns 
-- [Texturer](http://texturer.com/)
 - The [Pattern Library](http://thepatternlibrary.com/)
 - The [Texture King](https://www.textureking.com/)
 - [Transparent Textures](https://www.transparenttextures.com/)
@@ -243,21 +223,17 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [Freebiesbug PSD Icons](https://freebiesbug.com/psd-freebies/icons/)
 - [Find Icons](https://findicons.com/)
 - [Flaticon](https://www.flaticon.com/)
-- [Icon Archive](https://iconarchive.com/)
 - [Icon Monstr](https://iconmonstr.com/)
 
 ### ✍️Fonts [^](#table)
 - [Dafont](https://www.dafont.com/)
 - [Font Space](https://www.fontspace.com/commercial-fonts)
 - [Abstract Fonts](https://www.abstractfonts.com/)
-- [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
-- [Font Shop Free](https://www.fontshop.com/free-fonts)
-- [Urban Fonts Free](https://www.urbanfonts.com/free-fonts.htm)
+- [Urban Fonts Free](https://urbanfonts.com/free-fonts)
 - [Google Fonts](https://fonts.google.com/)
 - [1001 Fonts Free](https://www.1001fonts.com/free-for-commercial-use-fonts.html)
 - [Befonts](https://befonts.com/)
 - [Free Fonts](https://www.behance.net/collection/4860923/Free-Fonts) Behance Moodboard by [Felix Braden](https://www.behance.net/Floodfonts)
-- [Flood Fonts](https://www.floodfonts.com/#freefonts)
 - [Font Space](https://www.fontspace.com/)
 - [Freebiesbug Free Fonts](https://freebiesbug.com/free-fonts/)
 
@@ -265,14 +241,11 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [Drawkit](https://www.drawkit.com/), free illustrations weekly
 - [unDraw](https://undraw.co/illustrations)
 - [Open Doodles](https://opendoodles.com/)
-- [Glaze](https://www.glazestock.com/)
 - [Humaaans](https://humaaans.com/)
 - [Icons8](https://icons8.com/illustrations)
-- [Wearskribble](https://weareskribbl.com/)
 - [Pixabay](https://pixabay.com/illustrations/) stock illustations
 
 ### 📡 Other [^](#table)
-- [Creative Market](https://creativemarket.com/free-goods), download free quality assets each week!
 - [Free Design File](https://freedesignfile.com/) offers a massive amount of vectors, stock photos, PSD files, icons, and fonts for personal and commercial uses.
 - [All Free Download](https://all-free-download.com/)
 - Create ✨animated✨ custom emotes and emoji GIFs for Twitch, Slack, and Discord using [MakeEmoji](https://makeemoji.com/).
@@ -303,26 +276,19 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [Isorepublic](https://isorepublic.com/photos/) 
 - [PicJumbo](https://picjumbo.com/)
 - [FreeImages](https://www.freeimages.com/)
-- Create stock photos with AI using [STOCKIMG.AI](https://stockimg.ai/)
-- [Photobash.co](https://photobash.co/packs?sort=3&category=free-39) offers only a few free stock packages but they are filled to the brim each
-- [Pixabay](https://pixabay.com/) stock photos
 
 ### 📼Stock Footage [^](#table)
 - [Pexels](https://www.pexels.com/videos/) 
-- [Life of Vids](https://lifeofvids.com/)
 - [Pond5](https://www.pond5.com/free/footage) 
 - [Isorepublic](https://isorepublic.com/videos/) 
-- [FreeFx](https://www.freefx.net/)
 - [Pixabay](https://pixabay.com/videos/) stock footage
 
 ### 🌟Visual Effects [^](#table)
 - [Footage Crate](https://footagecrate.com/free-video-effects-categories.html) 
 - [329 Free Action Elements from Premium Beat](https://www.premiumbeat.com/blog/329-free-action-elements-for-video-editors/) 
-- Detonation Films Free stuff [part 1](https://detonationfilms.com/free_stuff.htm) and [part 2](https://detonationfilms.com/free_stuff_page_2.htm)
 - [ActionVFX Free VFX Elements](https://www.actionvfx.com/collections/free-vfx/category) 
 - [Video Copilot](https://www.videocopilot.net/blog/2011/12/new-tutorial-and-free-stock-footage/)  
 - [Creative DoJo free light leaks pack](https://creativedojo.net/free-light-leaks-pack/) 
-- [RocketStock free Adobe After Effects templates](https://www.rocketstock.com/free-after-effects-templates/) 
 - [PolyHaven](https://polyhaven.com/)
 - [Mixamo](https://www.mixamo.com/)
 - [Public Domain 3D Models on Sketchfab](https://sketchfab.com/nebulousflynn/collections/cc0-9e9b8c5442ab4b59ba16b6fa5e43b8da)
@@ -330,7 +296,6 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 
 ### 🎨Colors [^](#table)
 - [Lutify Me Free LUTs ](https://lutify.me/free-luts/) 
-- [Free Luts Pack](https://www.dropbox.com/sh/l4scs7g4mc0bbf0/AADds0hFGH2menosMdPwtBY0a?dl=0)
 - [Coolors.co](https://coolors.co/)
 - [Adobe Color](https://color.adobe.com/create/color-wheel)
 - [Khroma](https://www.khroma.co/)
@@ -348,7 +313,6 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 > _`▷` video, `☰` playlist, `💿` channel, `🧾` website_
 
 ### 🎥Filmmaking [^](#table)
-- 🧾[Matt Scott Visuals](http://mattscottvisuals.com/tutorials) 
 - 🧾[Stage32](https://www.stage32.com/welcome/)
 - ☰ [4 Years of Film School in 100 Videos by Cmike](https://www.youtube.com/playlist?list=PLN0Ia8duouFT_5ZndlqMZ5qGCl-TvXiCR) 
 - ▷ [In Camera Transitions: A Masterclass. by Jessie Driftwood](https://youtu.be/458I2hkaqjk) 
@@ -361,12 +325,10 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 -   ☰ 🍩[Blender 3.0 Beginner Donut Tutorial by Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 - ☰🍦[Blender Complete Beginner Tutorial Course by CG Geek](https://www.youtube.com/playlist?list=PLrjIgEdKLivgpCMmFC0_sV60Y_Ftp-WLD)
 - ▷ [How I Quickly Create 3D Environments in Unreal Engine 5 by Pwnisher](https://youtu.be/YZ4gSKZh6do)
-- ☰ [Unreal Engine 5 for Filmmaking Beginner by MR3d-Dev](https://www.youtube.com/playlist?list=PLcUTPYkj5fo4E6v76W9bEKuxLPBWDgK0a)
 
 ### 🌌Phototography [^](#table)
 - 🧾[Intro to Outdoor Photography by REI](https://www.rei.com/learn/series/outdoor-photography)
 - ☰ [Peter McKinnon Tutorials](https://www.youtube.com/playlist?list=PLTZSw2B7F_WdYHeoyrwItZvvTy3P6kOsy)
-- 🧾[GCF Global](https://edu.gcfglobal.org/en/topics/creativity-and-design/)
 
 ### 💼Licencing [^](#table)
 - [Fair use and Copyright Guide by Frame.io](https://blog.frame.io/2017/08/30/copyrights-and-fair-use-for-filmmakers/)
@@ -374,9 +336,11 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 
 ---
 ### Contributing: [^](#table)
-Your contributions are always welcome! - If you want to contribute to this list, fill out the form below, send a pull request, *OR* open an issue.
+Your contributions are always welcome! - If you want to contribute to this list, send a pull request *OR* open an issue.
 
-> [https://forms.gle/9QHYpvsmgPEhbQoS9](https://forms.gle/9QHYpvsmgPEhbQoS9)
+### Criteria 
+> The criteria for resources here is that tools must be free or offer a fremium option that doesn't limit you to a number of uses, _because that's just a trial with end date_.
+> Services that are "AI powered" such as an 'AI video editor' will not be accepted as these services are positioning themselves as a replacment for artists. 
 
 ---
 ## Big shoutout to [Awesome Blender by Agmmnn](https://github.com/agmmnn/awesome-blender) for inspiring this style of list, check out their list for all things Blender
