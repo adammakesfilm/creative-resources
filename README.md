@@ -144,6 +144,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 
 ### 🪀Misc [^](#table)
 - [FontJoy](https://fontjoy.com/) helps you mix and match different fonts to find the perfect font pairing for you.
+- [FrameCoach](https://framecoach.io) is a real-time camera coaching app for filmmakers that guides you through camera settings, composition, and shot choices on set.
 - [Handbrake](https://handbrake.fr/) is an open-source tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 ---
 
