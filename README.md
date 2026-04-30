@@ -108,6 +108,9 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [Olive](https://github.com/olive-editor/olive) is an open-source editor that's currently in a pre-release state. 
 - [VidMix](https://vidmix.app/) is a simple video editor with a variety of tools that works entirely in your browser for free.
 
+### 📥 Video Downloading [^](#table)
+- [Cyber Collector](https://t.me/cybercollectorbot) is a free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube + Shorts, X/Twitter, and Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
+
 ### 📷 Photo Editing [^](#table)
 - [Photopea](https://www.photopea.com/) is a web-based photo and graphics editor. It is used for image editing, making illustrations, web design, or converting between different image formats.
 - [GIMP](https://www.gimp.org/) is a free and open-source raster graphics editor used for image manipulation and image editing, free-form drawing, transcoding between different image file formats, and more specialized tasks.
