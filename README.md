@@ -115,6 +115,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [Darktable](https://www.darktable.org/) is an open-source photography workflow application and raw developer. A virtual light table and darkroom for photographers.
 - [Digikam](https://www.digikam.org/) provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
 - [BulkPicTools](https://bulkpictools.com) is a free browser-based tool for batch processing images. Compress, resize, crop, convert, and watermark 1,000+ photos at once — all locally in your browser with no account or upload required.
+- [igly.ai](https://igly.ai) is a free AI-powered image editing platform for background removal, AI inpainting/generative fill, image upscaling, and smart photo editing. ([Demo Video](https://www.youtube.com/watch?v=HB2E1WZ12is))
 
 ### 👾 Visual Effects [^](#table)
 - [Natron](https://natrongithub.github.io/) is a free, open-source video compositor, similar in functionality to Adobe After Effects, Foundry's Nuke, or Blackmagic Fusion.
