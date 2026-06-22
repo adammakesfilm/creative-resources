@@ -144,6 +144,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [Material Maker](https://www.materialmaker.org/) is a procedural material authoring tool based on the Godot Engine.
 
 ### 🪀Misc [^](#table)
+- [Copsy](https://copsy.app) is a free macOS app that offloads and backs up camera footage, copying cards to a drive and the cloud at once and verifying every file with checksums.
 - [FontJoy](https://fontjoy.com/) helps you mix and match different fonts to find the perfect font pairing for you.
 - [Handbrake](https://handbrake.fr/) is an open-source tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 ---
