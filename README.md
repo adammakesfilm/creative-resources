@@ -114,6 +114,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [RawTherapee](http://rawtherapee.com/) is capable of editing Raw photo files, as well as other formats. With its extensive range of editing tools, you'll be able to correct distortion, boost colors, recover details, and much more.
 - [Darktable](https://www.darktable.org/) is an open-source photography workflow application and raw developer. A virtual light table and darkroom for photographers.
 - [Digikam](https://www.digikam.org/) provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
+- [igly.ai](https://igly.ai/) is a free browser-based AI image editor for background removal, inpainting, upscaling, generative fill, and product photo cleanup.
 - [BulkPicTools](https://bulkpictools.com) is a free browser-based tool for batch processing images. Compress, resize, crop, convert, and watermark 1,000+ photos at once — all locally in your browser with no account or upload required.
 
 ### 👾 Visual Effects [^](#table)
