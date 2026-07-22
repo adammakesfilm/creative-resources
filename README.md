@@ -306,6 +306,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [Colordot](https://color.hailpixel.com/)
 - [Eva Design System](https://colors.eva.design/)
 - [POLINE](https://meodai.github.io/poline/) is an enigmatic color palette generator, that harnesses the mystical witchcraft of polar coordinates.
+- [Coolors.co](https://coolors.co/)
 
 ---
 
