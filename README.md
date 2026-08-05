@@ -115,6 +115,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [Darktable](https://www.darktable.org/) is an open-source photography workflow application and raw developer. A virtual light table and darkroom for photographers.
 - [Digikam](https://www.digikam.org/) provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
 - [BulkPicTools](https://bulkpictools.com) is a free browser-based tool for batch processing images. Compress, resize, crop, convert, and watermark 1,000+ photos at once — all locally in your browser with no account or upload required.
+- [Nutilz Image Compressor](https://nutilz.com/image-compressor) is a free online tool for reducing JPG, PNG, and WebP file size without visible quality loss. No signup, no upload limits, and processing happens instantly in the browser.
 
 ### 👾 Visual Effects [^](#table)
 - [Natron](https://natrongithub.github.io/) is a free, open-source video compositor, similar in functionality to Adobe After Effects, Foundry's Nuke, or Blackmagic Fusion.
