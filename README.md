@@ -293,7 +293,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [PolyHaven](https://polyhaven.com/)
 - [Mixamo](https://www.mixamo.com/)
 - [Public Domain 3D Models on Sketchfab](https://sketchfab.com/nebulousflynn/collections/cc0-9e9b8c5442ab4b59ba16b6fa5e43b8da)
-- [Blenderkit](https://www.blenderkit.com/); has 12k+ free models, materials, HDRs & more
+- [Blenderkit](https://www.blendkit.com/); has 12k+ free models, materials, HDRs & more
 
 ### 🎨Colors [^](#table)
 - [Lutify Me Free LUTs ](https://lutify.me/free-luts/) 
