@@ -146,6 +146,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 ### 🪀Misc [^](#table)
 - [FontJoy](https://fontjoy.com/) helps you mix and match different fonts to find the perfect font pairing for you.
 - [Handbrake](https://handbrake.fr/) is an open-source tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+- [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 ---
 
 ## 📚Documents/Templates [^](#table)
