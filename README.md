@@ -321,6 +321,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - 💿[Indy Mogul](https://www.youtube.com/user/indymogul)
 - 💿[Video Copilot](https://www.youtube.com/user/videocopilot)
 - 🧾 [MIT OpenCourseWare](https://ocw.mit.edu/search/?t=Film%20and%20Video)
+- 🧾[MediaHedge Knowledgebase](https://mediafinance.guide) — Free public wiki on film and television finance (collateral, tax credits, completion protection, cash control, glossary).
 
 ### 🗿 Modeling/Animation [^](#table)
 -   ☰ 🍩[Blender 3.0 Beginner Donut Tutorial by Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
