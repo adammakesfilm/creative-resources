@@ -342,7 +342,8 @@ Your contributions are always welcome! - If you want to contribute to this list,
 
 ### Criteria 
 > The criteria for resources here is that tools must be free or offer a fremium option that doesn't limit you to a number of uses, _because that's just a trial with end date_.
-> Services that are "AI powered" such as an 'AI video editor' will not be accepted as these services are positioning themselves as a replacment for artists. 
+> Services that are "AI powered" such as an 'AI video editor' will not be accepted as these services are positioning themselves as a replacment for artists.
+> Lastly, this repo does not accepect AI generated content, so information that is written by AI or tools that are "vibe coded" are not supported as they present concerns of accuracy and reliability. 
 
 ---
 ## Big shoutout to [Awesome Blender by Agmmnn](https://github.com/agmmnn/awesome-blender) for inspiring this style of list, check out their list for all things Blender
