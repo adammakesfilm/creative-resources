@@ -98,6 +98,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [Fairlight](https://www.blackmagicdesign.com/products/davinciresolve/fairlight) lets you work with advanced 3D audio formats such as Dolby ATMOS, Auro 3D, 3D Spaceview™ and more.
 - [Ardour](https://ardour.org/) is an open source DAW software.
 - [Waveform](https://www.tracktion.com/products/waveform-free) is the world’s best, fully featured, completely unlimited free DAW for all music creators.
+- [Online Tone Generator](https://theaudiostuff.com/tools/signal-generator/) generates test tones (such as a 1 kHz reference tone), white and pink noise and frequency sweeps in the browser, and can export them as WAV files for checking levels, speakers and headphones.
 
 ### ✂ Video Editing[^](#table)
 -   [Shotcut](https://shotcut.org/) is a free and open-source, cross-platform video, audio, and image editing program for FreeBSD, Linux, macOS, and Windows.
