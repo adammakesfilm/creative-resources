@@ -203,6 +203,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [Sound Gator](https://www.soundgator.com/)
 - [Sound Bible](https://soundbible.com/free-sound-effects-1.html)
 - [Pixabay](https://pixabay.com/sound-effects/) stock sfx
+- [SFXMint](https://sfxmint.com/) CC0 sound effects library (AI-generated or synthesized)
 
 ---
 
