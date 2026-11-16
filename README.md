@@ -117,6 +117,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [Digikam](https://www.digikam.org/) provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
 - [BulkPicTools](https://bulkpictools.com) is a free browser-based tool for batch processing images. Compress, resize, crop, convert, and watermark 1,000+ photos at once — all locally in your browser with no account or upload required.
 - [OmniGIF](https://www.omnigif.com/) is a free browser-based tool for GIFS. Compress, resize, crop, convert, and watermark GIF — all locally in your browser with no account or upload required.
+- [Pic2Vector](https://pic2vector.com/) is a free browser tool that turns PNG, JPG and WebP into layered SVG. Tracing runs on your device with WebAssembly (open-source vtracer); nothing is uploaded and export has no watermark.
 
 ### 👾 Visual Effects [^](#table)
 - [Natron](https://natrongithub.github.io/) is a free, open-source video compositor, similar in functionality to Adobe After Effects, Foundry's Nuke, or Blackmagic Fusion.
