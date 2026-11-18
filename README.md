@@ -258,6 +258,7 @@ Find fantastic free creative resources here! This list is perfect for filmmakers
 - [Pixabay](https://pixabay.com/gifs/) stock gifs
 - [x6ud's](https://x6ud.github.io/) tool for animal references
 - [Reference Angle](http://referenceangle.com/) is great for getting reference pictures for faces with specific emotions or angles.
+- [GIF Master](https://gif-master.com/) is an all-in-one online GIF toolkit, free to use and privacy-first. Convert video to GIF, compress GIFs, record GIFs, remove GIF backgrounds, add text to GIFs, and trim GIFs in the browser.
 ---
 
 ## 👩🏽‍💻Visuals [^](#table)
